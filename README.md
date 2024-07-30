@@ -1,4 +1,4 @@
-## Olá eu sou a Carla Dias
+## Olá eu sou a Carla Dias - Desenvolvedora Frontend
 
  <div>
    <a href="https://github.com/diascarla">
