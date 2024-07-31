@@ -1,4 +1,4 @@
-## Olá eu sou a Carla Dias - Desenvolvedora Frontend <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2A0E1D&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+eu+sou+a+)](https://git.io/typing-svg) Carla Dias - Desenvolvedora Frontend <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
 
  <div>
    <a href="https://github.com/diascarla">
