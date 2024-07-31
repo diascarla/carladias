@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/carla-dias-9971b7265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
-## Contribution graph
+
+### Grafico de contribuição
 
 ![snake gif](https://github.com/diascarla/diascarla/blob/output/github-contribution-grid-snake.svg)
