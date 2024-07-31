@@ -1,4 +1,4 @@
-## Olá eu sou a Carla Dias - Desenvolvedora Frontend
+## Olá eu sou a Carla Dias - Desenvolvedora Frontend <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
 
  <div>
    <a href="https://github.com/diascarla">
