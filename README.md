@@ -6,7 +6,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diascarla&layout=compact&langs_count=6&theme=dracula"/>
     
 </div>
+
 ### Minhas Skiils <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Nerd%20Face.webp" alt="Nerd Face" width="25" height="25" />    
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
