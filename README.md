@@ -17,7 +17,7 @@
 ### Minhas Skiils <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Nerd%20Face.webp" alt="Nerd Face" width="25" height="25" />    
 
 <div style="display: inline_block"><br>
-  (https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,figma)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="40" alt="javascript logo" />
 </div>
  
 <br>
