@@ -34,17 +34,17 @@
 
 <br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="10" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" heigth="10" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" heigth="10" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" />
  
 ### Contato!
  
 <div>
  
- <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubbusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" heigth="40" target="_blank" alt="discord logo"></a>
-  <a href = "mailto:diasscarla@hotmail.com"><img src="https://raw.githubbusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft/default.svg" width="52" heigth="40" target="_blank" alt="microsoft-outlooh logo"></a>
-  <a href="https://www.linkedin.com/in/carla-dias-9971b7265" target="_blank"><img src="https://raw.githubbusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" heigth="40" target="_blank" alt="linkedin logo"></a>
+ <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubbusercontent.com/diascarla/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" heigth="40" target="_blank" alt="discord logo"></a>
+  <a href = "mailto:diasscarla@hotmail.com"><img src="https://raw.githubbusercontent.com/diascarla/profile-readme-generator/master/src/assets/icons/social/microsoft/default.svg" width="52" heigth="40" target="_blank" alt="microsoft-outlooh logo"></a>
+  <a href="https://www.linkedin.com/in/carla-dias-9971b7265" target="_blank"><img src="https://raw.githubbusercontent.com/diascarla/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" heigth="40" target="_blank" alt="linkedin logo"></a>
 
 </div>
 
