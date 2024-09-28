@@ -41,7 +41,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" heigth="60" width="60" style="max-width: 100%" alt="figma logo" />
 </div>
 <br>
+
 ### Contato!
+
  <br>
 <div>
  <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="discord logo"></a>
