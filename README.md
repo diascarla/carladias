@@ -1,9 +1,12 @@
 
+<div align="center">
+ <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+ <h3>Sou a ...</h3>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF58E3&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Carla+Dias)](https://git.io/typing-svg) 
+</div>
 
- # Olá sou a 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF58E3&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Carla+Dias)](https://git.io/typing-svg) 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
+---
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Frontend)](https://git.io/typing-svg) 
 
