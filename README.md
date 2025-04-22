@@ -41,8 +41,8 @@
 
  <p align="center">
     <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="discord logo"></a>
-    <a href = "devcarladias@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="microsoft-outlooh logo"></a>
-    <a href="https:www.linkedin.com/in/devcarladias/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="linkedin logo"></a
+    <a href="https:www.linkedin.com/in/devcarladias/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="microsoft-outlooh logo"></a>
+    <a  href ="devcarladias@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="linkedin logo"></a
   
 </p>
 
