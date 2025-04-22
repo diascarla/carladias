@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,ts,sql&theme=dark" alt="skills logo"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,ts,sql&theme=dark" alt="skills logo"/>
   </a>
 </p>
  
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm, redux,api,docker,express,postgres,prisma,vite&theme=dark" heigth="60" width="60" style="max-width: 100%" alt="skills logo"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm, redux,api,docker,express,postgres,prisma,vitenodejs,&theme=dark" alt="skills logo"/>
   </a>
 </p>
 
