@@ -31,17 +31,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,redux,docker,express,postgres,prisma,vitenodejs,&theme=dark" alt="skills logo"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,redux,docker,express,postgres,prisma,vite,nodejs,&theme=dark" alt="skills logo"/>
   </a>
 </p>
 
 ### Contato!
 
  <br>
+
+ <p align="center">
+    <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="discord logo"></a>
+    <a href = "devcarladias@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="microsoft-outlooh logo"></a>
+    <a href="https:www.linkedin.com/in/devcarladias/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="linkedin logo"></a
+  
+</p>
+
 <div>
- <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="discord logo"></a>
-  <a href = "mailto:diasscarla@hotmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="microsoft-outlooh logo"></a>
-  <a href="https://www.linkedin.com/in/carla-dias-9971b7265" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="linkedin logo"></a>
+ 
+  
+  >
 </div>
 
 ### Grafico de contribuição
