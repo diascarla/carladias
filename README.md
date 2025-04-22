@@ -17,7 +17,7 @@
 
 ### Estatísticas 
 
- <div>
+ <div align="center">
    <a href="https://github.com/diascarla">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diascarla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diascarla&layout=compact&langs_count=6&theme=dracula"/>  
@@ -65,6 +65,12 @@
 
 ---
 
-![snake gif](https://github.com/diascarla/diascarla/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 <p align="center"><i>Obrigada pela visita! ❤️</i></p>
