@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,ts,sql&theme=dark" heigth="60" width="60" style="max-width: 100%" alt="skills logo"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,ts,sql&theme=dark" alt="skills logo"/>
   </a>
 </p>
  
@@ -34,15 +34,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm, redux,api,docker,express,postgres,prisma,vite&theme=dark" heigth="60" width="60" style="max-width: 100%" alt="skills logo"/>
   </a>
 </p>
-
-<div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" heigth="60" width="60" style="max-width: 100%" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" heigth="60" width="60" style="max-width: 100%" alt="github logo" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" heigth="60" width="60" style="max-width: 100%" alt="github logo" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" heigth="60" width="60" style="max-width: 100%" alt="figma logo" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" heigth="60" width="60" style="max-width: 100%" alt="figma logo" />
-</div>
-<br>
 
 ### Contato!
 
