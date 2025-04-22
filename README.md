@@ -8,9 +8,12 @@
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Frontend)](https://git.io/typing-svg) 
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Frontend)](https://git.io/typing-svg)
+</div>
+
+--- 
 
 ### Estatísticas 
 
@@ -19,6 +22,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diascarla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diascarla&layout=compact&langs_count=6&theme=dracula"/>  
 </div>
+
+---
 
 ### Minhas Skiils <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Nerd%20Face.webp" alt="Nerd Face" width="25" height="25" /> 
 
@@ -40,22 +45,25 @@
   </a>
 </p>
 
-### Contato!
+---
+
+### Contato
 
  <br>
 
- <p align="center">
-    <a href="https://discord.com/channels/867930080637247568/903051917142405151" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="discord logo"></a>
-    <a href="https:www.linkedin.com/in/devcarladias/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="microsoft-outlooh logo"></a>
-    <a  href ="devcarladias@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" heigth="60" width="60" style="max-width: 100%" target="_blank" alt="linkedin logo"></a
-  
-</p>
-
-<div>
- 
-  
-  >
+ <div align="center">
+  <a href="https://diascarla.github.io/portifolio/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio icon" />
+  </a>
+  <a href="mailto:devcarladias@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/devcarladias/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
+
+---
 
 ### Grafico de contribuição
 
