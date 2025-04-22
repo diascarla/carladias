@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm, redux,api,docker,express,postgres,prisma,vitenodejs,&theme=dark" alt="skills logo"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,redux,docker,express,postgres,prisma,vitenodejs,&theme=dark" alt="skills logo"/>
   </a>
 </p>
 
