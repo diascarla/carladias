@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Frontend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Frontend)](https://git.io/typing-svg)
 </div>
 
 --- 
@@ -65,6 +65,6 @@
 
 ---
 
-### Grafico de contribuição
-
 ![snake gif](https://github.com/diascarla/diascarla/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"><i>Obrigada pela visita! ❤️</i></p>
