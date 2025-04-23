@@ -1,6 +1,7 @@
 
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Seja%20em%20vindo%20(a)&fontColor=fff&animation=twinkling
+
 <div align="center">
-  <h1 align="center"> Seja bem-vindo(a) ao meu GitHub! </h1> 
   <h3>Sou a ...</h3>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF58E3&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Carla+Dias)](https://git.io/typing-svg) 
