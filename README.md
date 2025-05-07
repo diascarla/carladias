@@ -6,7 +6,7 @@
 <div align="center">
   <h3>Sou a <i>Carla Dias</i></h3>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Frontend)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1008&color=AC7EA4&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedora+Full-Stack)](https://git.io/typing-svg)
 </div>
 
 --- 
